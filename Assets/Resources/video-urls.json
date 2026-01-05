@@ -1,0 +1,16 @@
+﻿{
+  "videoDatas": [
+    {
+      "VideoID": "0",
+      "VideoName": "Drone Video",
+      "HighResVideoURL": "https://pub-faedaa1ed23048f9a9aac33bd90b8328.r2.dev/360video.mp4",
+      "LowResVideoURL": "https://pub-faedaa1ed23048f9a9aac33bd90b8328.r2.dev/deneme.mp4"
+    },
+    {
+      "VideoID": "1",
+      "VideoName": "Lion Video",
+      "HighResVideoURL": "https://pub-faedaa1ed23048f9a9aac33bd90b8328.r2.dev/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4",
+      "LowResVideoURL": "https://pub-faedaa1ed23048f9a9aac33bd90b8328.r2.dev/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4"
+    }
+  ]
+}
